@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArkRoyalKai
 - 👀 I’m interested in learning as much as i can 
-- 🌱 I’m currently learning C++, Javascript
+- 🌱 I’m currently learning C++, MIPS
 - 📫 How to reach me: Discord
 - ⚡ Fun fact: i do film photography 
